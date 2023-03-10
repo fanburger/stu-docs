@@ -33,16 +33,16 @@ wget https://www.python.org/ftp/python/3.10.10/Python-3.10.10.tgz
 正常执行完上述指令后你应该可以在当前工作目录找到一个名为`Python-3.10.10.tgz`的文件。
 
 3. 解压发行包：
-在存有`Python3.10.10.tgz`的目录执行如下命令解压发行包：
+在存有`Python-3.10.10.tgz`的目录执行如下命令解压发行包：
 ```bash
 
-tar xzf Python3.10.10.tgz
+tar xzf Python-3.10.10.tgz
 
 ```
 成功执行指令后当前工作目录会出现一个与发行包同名的文件夹（Python3.10.10），进入该文件夹：
 ```bash
 
-cd Python3.10.10
+cd Python-3.10.10
 
 ```
 
